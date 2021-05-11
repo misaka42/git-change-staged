@@ -1,13 +1,17 @@
 ## introduction
 
-Used in pre commit hook when you want to limit the changes of a commit.
+used in pre-commit hook when you want to limit code changes of this git commit.
 
-> for example: you can set the rule that all commits should have less than 200 lines diff change, to keep this project's pull request better to code review.
+### ✨✨✨
+
+- helps to keep small commit
+- clean and precise pull request
+- better for code reviewers
 
 ## install
 
 ```bash
-tnpm i git-change-staged
+npm i git-change-staged
 ```
 
 ## usage
