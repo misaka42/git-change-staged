@@ -7,9 +7,7 @@
   "files": [
     "lib"
   ],
-  "bin": {
-    "git-change-staged": "./cli.js"
-  },
+  "bin": "./cli.mjs",
   "scripts": {
     "build": "tsc -p ."
   },
@@ -17,9 +15,5 @@
     "git-change-staged"
   ],
   "author": "ppq1991@gmail.com",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^15.0.2",
-    "typescript": "^4.2.4"
-  }
+  "license": "MIT"
 }
