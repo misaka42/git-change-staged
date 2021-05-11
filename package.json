@@ -1,6 +1,6 @@
 {
   "name": "git-change-staged",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "git-change-staged",
   "type": "module",
   "main": "index.js",
