@@ -3,11 +3,10 @@
   "version": "0.1.2",
   "description": "git-change-staged",
   "type": "module",
-  "main": "index.js",
   "files": [
-    "lib"
+    "bin"
   ],
-  "bin": "./cli.mjs",
+  "bin": "./bin/cli.mjs",
   "scripts": {
     "build": "tsc -p ."
   },
