@@ -11,6 +11,8 @@
     "build": "tsc -p ."
   },
   "keywords": [
+    "git diff",
+    "git commit change",
     "git-change-staged"
   ],
   "author": "ppq1991@gmail.com",
